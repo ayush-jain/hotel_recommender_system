@@ -1,0 +1,121 @@
+1 aloft_beijing_haidian Beijing China 3
+1 ascott_beijing Beijing China 4
+1 autumn_garden_courtyard_hotel Beijing China 8
+1 affinia_chicago Chicago_Illinois USA 9
+1 usa_illinois_chicago_allerton_hotel Chicago_Illinois USA 10
+1 are_dubai_abc_almanar_hotel_apartment Dubai UAE 3
+1 are_dubai_admiral_plaza_hotel Dubai UAE 1
+1 are_dubai_al_bustan_centre_residence Dubai UAE 2
+1 usa_nevada_las-vegas_a_fishers_inn Las-vegas_Navada USA 7
+1 usa_nevada_las-vegas_alexis_park_resort Las-vegas_Navada USA 8
+1 usa_nevada_las-vegas_americana_5 Las-vegas_Navada USA 6
+2 usa_illinois_chicago_affinia_chicago Chicago_Illinois USA 3
+2 uk_england_london_22_jermyn_street London England 1
+2 can_montreal_aloft_montreal_airport Montreal Canada 4
+2 can_montreal_auberge_bonaparte Montreal Canada 5
+2 usa_illinois_chicago_affinia_chicago Chicago_Illinois USA 6
+2 usa_illinois_chicago_allerton_hotel Chicago_Illinois USA 7
+2 are_dubai_abc_almanar_hotel_apartment Dubai UAE 9
+2 india_new_delhi_airport_hotel NewDelhi India 9
+2 are_dubai_al_bustan_centre_residence Dubai UAE 9
+2 usa_nevada_las-vegas_a_fishers_inn  Las-vegas_Navada USA 4
+2 india_new_delhi_conclave_comfort NewDelhi India 3
+2 usa_nevada_las-vegas_americana_5  Las-vegas_Navada USA 7
+3 india_new_delhi_avalon_courtyard NewDelhi India 2
+3 uk_england_london_22_jermyn_street London England 3
+3 india_new_delhi_aman_new_delhi NewDelhi India 5
+3 china_shanghai_88_xintiandi_executive_residence Shanghai China 6
+3 china_shanghai_an_ting_villa_hotel_shanghai Shanghai China 8
+3 usa_san_francisco_abigail_hotel SanFrancosco USA 8 
+3 are_dubai_abc_almanar_hotel_apartment Dubai UAE 9
+3 usa_san_francisco_americas_best_value_inn_suites_union_square 10
+3 are_dubai_al_bustan_centre_residence Dubai UAE 10
+3 uk_england_london_abc_hyde_park_hotel London England 5
+3 usa_new york city_affinia_gardens NewYork USA 6 
+3 usa_new york city_3_west_club NewYork USA 8
+4 uk_england_london_abbey_lodge_hotel London England 5
+4 can_montreal_clarion_hotel_suites_downtown Montreal Canada 5
+4 can_montreal_auberge_le_pomerol Montreal Canada 7
+4 china_shanghai_88_xintiandi_executive_residence Shanghai China 8
+4 china_shanghai_golden_jade_sunshine_hotel Shanghai China 8
+4 india_new_delhi_hotel_clark_heights NewDelhi India 6 
+4 usa_new york city_best_western_seaport_inn_downtown 8
+4 usa_san_francisco_americas_best_value_inn_suites_union_square SanFrancosco USA 9
+4 usa_new york city_beekman_tower_hotel NewYork USA 10
+4 usa_san_francisco_broadway_manor_inn SanFrancosco USA 10
+4 usa_new york city_affinia_gardens NewYork USA 3
+4 usa_new york city_broadway_plaza_hotel NewYork USA 7
+5 uk_england_london_americana_hotel London England 7
+5 india_new_delhi_hotel_vikram NewDelhi India 7
+5 india_new_delhi_hotel_welcome_palace NewDelhi India 8
+5 can_montreal_hilton_garden_inn_montreal_centre_ville Montreal Canada 3
+5 china_shanghai_golden_jade_sunshine_hotel Shanghai China 6
+5 india_new_delhi_hotel_clark_heights NewDelhi India 10
+5 usa_new york city_best_western_seaport_inn_downtown NewYork USA 6
+5 china_shanghai_broadway_mansions_hotel Shanghai China 8
+5 usa_new york city_beekman_tower_hotel NewYork USA 3
+5 usa_san_francisco_tomato_inn SanFrancosco USA 2
+5 usa_new york city_affinia_gardens NewYork USA 1
+5 are_dubai_al_manzil_hotel Dubai UAE 7
+6 uk_england_london_lords_hotel London England 5
+6 usa_nevada_las-vegas_best_western_mardi_gras_hotel_casino Las-vegas_Navada USA 7
+6 usa_nevada_las-vegas_budget_suites_of_america_stardust_road Las-vegas_Navada USA 8
+6 can_montreal_hilton_garden_inn_montreal_park_ville Montreal Canada 2
+6 are_dubai_dubai_marriott_harbour_hotel_suites Dubai UAE 1
+6 india_new_delhi_ginger_new_delhi NewDelhi India 7
+6 uk_england_london_avalon_private_hotel London England 7
+6 china_shanghai_chinchounti_hotel Shanghai China 9
+6 usa_new york city_beekman_tower_hotel NewYork USA 9
+6 usa_new york city_comfort_inn_midtown_west_convention_center NewYork USA 3
+6 usa_san_francisco_beresford_arms  SanFrancosco USA 6
+6 are_dubai_flora_creek_hotel_apartments Dubai UAE 6
+7 india_new_delhi_hotel_legend_international 2
+7 uk_england_london_22_jermyn_street London England 4
+7 can_montreal_aloft_montreal_airport Montreal Canada 5
+7 usa_new york city_dream NewYork USA 6
+7 india_new_delhi_hotel_rak_international NewDelhi India 9
+7 usa_illinois_chicago_allerton_hotel Chicago_Illinois USA 1
+7 usa_san_francisco_courtyard_san_francisco_downtown SanFrancosco USA 1
+7 india_new_delhi_airport_hotel NewDelhi India 3 
+7 usa_san_francisco_civic_center_inn SanFrancosco USA 5
+7 usa_nevada_las-vegas_a_fishers_inn Las-vegas_Navada USA 6
+7 india_new_delhi_conclave_comfort NewDelhi India 8 
+7 china_shanghai_golden_jade_sunshine_hotel Shanghai China 4
+8 china_beijing_beijing_friendship_hotel_grand_building Beijing China 5
+8 usa_illinois_chicago_club_quarters_chicago_wacker_at_michigan Chicago_Illinois USA 7
+8 are_dubai_abc_almanar_hotel_apartment Dubai UAE 10
+8 usa_nevada_las-vegas_aztec_inn Las-vegas_Navada USA 9
+8 usa_nevada_las-vegas_aruba_hotel Las-vegas_Navada USA 7
+8 china_shanghai_hotel_carolina Shanghai China 7
+8 china_shanghai_hengshan_picardie_hotel Shanghai China 1
+8 can_montreal_chateau_de_l_argoat Montreal Canada 2 
+8 usa_san_francisco_civic_center_inn SanFrancosco USA 3
+8 usa_nevada_las-vegas_a_zomano_inn Las-vegas_Navada USA 4
+8 uk_england_london_belgrave_hotel London England 6
+8 uk_england_london_berners_hotel London England 5
+9 uk_england_london_beaver_hotel London England 6
+9 china_shanghai_fraser_residence_shanghai 4
+9 china_shanghai_grand_mercure_baolong_shanghai 8
+9 usa_nevada_las-vegas_aztec_inn Las-vegas_Navada USA 9
+9 are_dubai_burjuman_arjaan_dubai Dubai UAE 9
+9 are_dubai_chelsea_tower_hotel_apartments Dubai UAE 9
+9 are_dubai_city_seasons_hotel Dubai UAE 3
+9 china_shanghai_motel_168_shanghai_pudong_airport Shanghai China 4
+9 china_beijing_holiday_inn_temple_of_heaven Beijing China 9
+9 china_beijing_hotel_cote_cour_beijing Beijing China 10
+9 uk_england_london_belgrave_hotel London England 6
+9 china_beijing_hotel_new_otani_chang_fu_gong Beijing China 1
+10 usa_new york city_affinia_shelburne NewYork USA 1
+10 china_beijing_double_happiness_courtyard_hotel Beijing China 3
+10 usa_illinois_chicago_chicago_marriott_at_medical_district_uic Chicago_Illinois USA 5
+10 are_dubai_dusit_thani_dubai Dubai UAE 6
+10 usa_nevada_las-vegas_paris_las_vegas_hotel Las-vegas_Navada USA 7
+10 usa_nevada_las-vegas_microtel_inn_suites_las_vegas Las-vegas_Navada USA 8
+10 india_new_delhi_the_tivoli_garden_resort NewDelhi India 9
+10 china_shanghai_motel_guputing Shanghai China 4
+10 uk_england_london_blades_hotel London England 3
+10 china_beijing_hotel_cote_cour_beijing Beijing China 3
+10 india_new_delhi_maidens_hotel NewDelhi India 4
+10 uk_england_london_best_western_the_boltons_hotel London England 10
+
+
